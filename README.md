@@ -1,5 +1,5 @@
 # 🛡️ About Me:
-Red Teamer Wannabe<br>Minecraft Player<br>Learning Code!
+Red Teamer/Cybersec Wannabe<br>Minecraft Player<br>Learning Code!
 
 
 # 💻 Known Languages:
